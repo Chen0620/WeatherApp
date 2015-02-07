@@ -9,3 +9,13 @@ The design of app is simple, clean and very easy to use. Intro page asks for use
 Runs on Android Version 4.4.4
 
 ##ScreenShots
+####Intro Page
+![alt tag](https://raw.githubusercontent.com/Chen0620/WeatherApp/master/ScreenShots/SS2.png)
+####Auto-complete
+![alt tag](https://raw.githubusercontent.com/Chen0620/WeatherApp/master/ScreenShots/SS3.png)
+####Info Page
+![alt tag](https://raw.githubusercontent.com/Chen0620/WeatherApp/master/ScreenShots/SS4.png)
+####GPS
+![alt tag](https://raw.githubusercontent.com/Chen0620/WeatherApp/master/ScreenShots/SS5.png)
+####Wrong input
+![alt tag](https://raw.githubusercontent.com/Chen0620/WeatherApp/master/ScreenShots/SS6.png)
